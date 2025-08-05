@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
+	name: 'Luís',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Eminem',
+					link: 'https://open.spotify.com/playlist/4scnyr6LfytwqPdfMT99Wr?si=d748c000b9fd4f20',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Tory Lanez',
+					link: 'https://open.spotify.com/playlist/6r2sIuQNeLq5wBTomzPNbK?si=8dd220e1519441f3',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Y',
+					link: 'https://open.spotify.com/playlist/0RkkQHTWes0nJFJlOPY8Qm?si=b006e3da01a2456d',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'K',
+					link: 'https://open.spotify.com/playlist/3IlCQdT2kSo6jdqD0QMFuB?si=695b1652843a4644&pt=830b251a862bb87591fddf5122bad20e',
 				},
 			],
 		},
